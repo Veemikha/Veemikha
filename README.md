@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Veemikha!<br><br>🚀 Web Developer   <br>💻 Passionate about creating catchy websites<br>🌐 Currently exploring the world of Bootstrap<br>🔧 Technologies & Tools<br>                - Frontend: HTML, CSS, JavaScript<br>                - Database: MongoDB<br>                - Tools: Git<br>📫 Let's connect: [Email] veemikha10@gmail.com<br>
+👋 Hi, I'm Veemikha!<br><br>🚀 Web Developer   <br>💻 Passionate about creating catchy websites<br>🌐 Currently exploring the world of FullStack developer<br>🔧 Technologies & Tools<br>                - Frontend: HTML, CSS, JavaScript<br>                - Database: MongoDB<br>                - Tools: Git<br>📫 Let's connect: [Email] veemikha10@gmail.com<br>
 
 
 ## 🌐 Socials:
